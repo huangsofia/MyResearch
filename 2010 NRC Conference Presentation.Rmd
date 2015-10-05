@@ -1,0 +1,50 @@
+---
+title: "Mini HW 2 Sophia Huang Reproducibe Report"
+author: "Sophia Huang"
+date: "September 3, 2015"
+output: html_document
+---
+
+# Influence of Kindergarten and First-Grade Literacy Instruction on the Third- and Fifth-Grade Students' Reading
+# Achievement: Findings from the Early Childhood Longitudinal Study-Kindergarten Class, 1998-1999
+
+#  Introduction
+This is a research paper I presented at the 2010 National Reading Conference.
+The purpose of this study was to examine whether phonics or whole language instructional approaches are related to reading achievement scores by conducting a secondary data analysis using the ECLS-K dataset. The study examined the influence of different types of kindergarten and first-grade reading instruction on students' reading achievement in kindergarten and first, third, and fifth grade. In addition, the study used students' growth in reading achievement from the first to the fifth grade as the outcome measure to compare the effectiveness of different types of reading instruction. Children's background characteristics were also examined. Factor analysis was implemented to create kindergarten and first grade teachers' in-class reading activities. Cluster analysis was implemented to classify the 1998-99 cohort into 9 groups according to their demographics, kindergarten and first grade instruction received, their intellectual ability, and their reading achievement score on first, third, and fifth grade. 
+
+
+# Methodology
+Factor and cluster analyses were used to identify phonics, blended, and whole language instruction at both grade levels. Two-level hierarchical linear models were estimated to investigate the reading achievement and growth of children's reading performance from kindergarten to fifth grade. Longitudinal growth models were used, and several background and control variables were also included. Intercept, instantaneous growth rate, and instantaneous curvature were estimated at the end of kindergarten and the first, third, and fifth grades. 
+Students' item response theory (IRT) scores from kindergarten and first, third, and fifth grades were used as a measurement to develop the HLMs. The effects of five groups of variables (achievement, time, student background, student control, and reading instruction) on students' reading achievement scores were also investigated. Student background variables included gender, race, home language, socioeconomic status (SES), and ability. 
+
+
+## Data
+
+The data used in the study were derived from the five waves of the ECLS-K. The base-year data were collected in the fall of 1998 and spring of 1999 and include a nationally representative sample of 21,260 kindergarteners. An additional four waves were collected in the fall and spring semesters of the first grade, and the spring semester of the third and fifth grades. After applying the recommended weight, the final sample size of the study was 9,796, with 3,509 kindergarten teachers and 2,967 first grade teachers. 
+
+
+## Results
+According to the reading instruction items in Spring Kindergarten and First Grade Teacher Questionnaires, reading instruction concerning four different reading skill sets can be defined in each grade. For kindergarten, reading instruction includes (a) reading with meaningful text and activities; (b) introducing print concept; (c) comprehension; and (d) decoding. More than half of the kindergarten teachers (52.30%) focused on decoding activities in their classroom. Only 18.95% of the kindergarten teachers used meaningful text and activities as the focus of their instruction. 
+
+For first grade, reading instruction includes: (a) reading with meaningful text and activities; (b) comprehension; (c) decoding, and reading with controlled vocabulary. Most of the teachers (56.57%) of the first grade teachers incorporated meaningful activities, decoding, and reading with controlled vocabularies in their classrooms. This group of teachers is indentified as blended instruction group. Only 17.38% of teachers used meaningful activities and did not incorporate decoding instruction in their reading classrooms. The finding indicated the trend in 1998 to 2000 that early reading instruction was moving towards blended approach rather than using a single instructional approach.
+
+Table 1 summarizes all HLM models in the study. Overall, female students had better reading achievement scores and faster growth rate across the grades compared to boys. Asian students had higher reading achievement scores and faster growth rate across the grades than students of other race after controlling for SES and ability scores. The gap between Caucasian students and Asian students widened in first and third grade but narrowed at fifth grade. 
+
+After controlling for SES and ability scores, African-American students had higher initial reading achievement score than Caucasian students at spring kindergarten. Their reading performance, however, declined from spring first grade. The gap between African-American students and Caucasian students widened as the progressed to the lower grade. 
+The reading achievement scores and growth rate of Native American, Alaskan, and Pacific Islander students were lower than the ones of Caucasian students and Asian students. The gap between this group and the Caucasian students widen in the first and third grade but narrowed at fifth grade. 
+
+Students that received phonics instruction performed lower than those who received whole language and blended instruction. Students that received phonics instruction in kindergarten continued to perform lower than students that received blended instruction in kindergarten. Whole language instruction did not have significant effect on students' first, third, and fifth grade reading achievement. Blended instruction, however, had significant effect on student's reading achievement on each group regardless what combination the students received. Students that received blended in kindergarten and whole language instruction in first grade had higher reading achievement scores at first and third compared to other groups. The effect, however, became non-significant at fifth grade. 
+
+## Discussion
+Both phonics and whole language instruction aim at developing students' word recognition skills that lead to better comprehension in later grades. Phonics instruction focuses on systematic, sequenced direct instruction. Phonics separates reading development into decoding a printed word and comprehending the meaning of the printed word (Xue & Meisel, 2004).Thus, the phonics instructional approach focuses reading instruction in kindergarten and first grade on building students' basic reading skills such as understanding the relationship between sound and words and decoding. The better students' decoding skills are, the better their word recognition skills become. 
+
+## Codes
+
+SPSS syntax and HLM statistical packages were used to estimate the results. It will be posted soon.
+
+
+## In the meanwhile....
+
+Enjoy the commercial break.
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ycdcDFuGarM" frameborder="0" allowfullscreen></iframe>
